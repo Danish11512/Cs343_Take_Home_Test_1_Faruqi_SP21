@@ -19,6 +19,6 @@ sw $s0, a
 sub $s3, $s0, $s4
 sw $s3, d
 
-#a to = b + c or 5
+# a to = b + c or 5
 # d to = (b+c)-e or 0
 # result : 5, 2, 3, 0, 5
