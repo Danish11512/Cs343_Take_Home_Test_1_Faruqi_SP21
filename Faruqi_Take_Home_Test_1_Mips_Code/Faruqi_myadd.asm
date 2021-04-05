@@ -6,6 +6,7 @@ i: .word 30
 j: .word 20
 
 .text
+lw $a0, g
 lw $a1, h
 lw $a2, i
 lw $a3, j
